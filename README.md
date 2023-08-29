@@ -1,15 +1,15 @@
-## Data Analysis Projects by MM Rashid Tonmoy
+## Data Analysis Projects by Mohammad Tonmoy
 
-I am Tonmoy, a trained Biomedical Engineer turned Data Analyst. This is my protfolio showcasing my prowess in analysing and visualising data through projects. 
+I am Tonmoy, a trained Biomedical Engineer turned Data Analyst. This is my portfolio showcasing my prowess in analysing and visualising data through projects. 
 
 [Website](https://toncodesdata.github.io/tonmoyDAportfolio.github.io/), [Linkedin](www.linkedin.com/in/rashidtonmoy)
 
 ### Python, SQL
 #### Title: Data Centralisation of a Multinational Retail Company [Github repo](https://github.com/tonCodesData/multinational-retail-data-centralisation)
 
-The data of a multinational company that sells various goods across the globe are spread across many different data sources such as AWS RDS, S3 bucket as pdf files, csv, etc, which made it not easily accessible or analysable by current members of the team. In this project, assuming the role of a Data Analyst, I aimed to make its sales data accessible from one centralised location and answer key metrics queries.
+The data of a multinational company that sells various goods across the globe are spread across many different data sources such as AWS RDS, S3 bucket as pdf files, CSV, etc., which made it not easily accessible or analysable by current team members. In this project, assuming the role of a Data Analyst, I aimed to make its sales data accessible from one centralised location and answer key metrics queries.
 
-In brief, First I build up engines to connect to different data sources using python (sqlalchemy, boto3) to **extract** data saved in different formats such as CSV, JSON, etc. Then I use pandas and numpy to **clean** and **transform** the data and **load** to a PostgreSQL server. There are I make star-based schema and query the database to get up-to-date metrics for the business helping the organisation becoming more data-driven while making their decisions.
+In brief, First I build up engines to connect to different data sources using python (sqlalchemy, boto3) to **extract** data saved in different formats such as CSV, JSON, etc. Then I use pandas and numpy to **clean** and **transform** the data and **load** to a PostgreSQL server. Then I make star-based schema and query the database to get up-to-date metrics for the business helping the organisation become more data-driven while making their decisions.
 
 ### Python
 #### Project 1: Hangman Game [Github repo](https://github.com/tonCodesData/hangman-game-python)
