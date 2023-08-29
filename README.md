@@ -4,6 +4,13 @@ I am Tonmoy, a trained Biomedical Engineer turned Data Analyst. This is my protf
 
 [Website](https://toncodesdata.github.io/tonmoyDAportfolio.github.io/), [Linkedin](www.linkedin.com/in/rashidtonmoy)
 
+### Python, SQL
+##### Title: Data Centralisation of a Multinational Retail Company [Github repo](https://github.com/tonCodesData/multinational-retail-data-centralisation)
+
+The data of a multinational company that sells various goods across the globe are spread across many different data sources such as AWS RDS, S3 bucket as pdf files, csv, etc, which made it not easily accessible or analysable by current members of the team. In this project, assuming the role of a Data Analyst, I use python libraries such as sqlalchemy, pandas, numpy, boto3, tabula-py, etc., to make its sales data accessible from one centralised location. 
+
+In brief, First I build up engines to connect to different data sources such as AWS RDS, AWS S3 bucket using python (sqlalchemy, boto3) to *extract* data saved in different formats such as CSV, JSON, etc. Then I use pandas and numpy to *clean* and *transform* the data and upload to a PostgreSQL server. There are I make star-based schema and query the database to get up-to-date metrics for the business helping the organisation becoming more data-driven while making their decisions.
+
 ### Python
 ##### Project 1: Hangman Game [Github repo](https://github.com/tonCodesData/hangman-game-python)
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain number of attempts, one letter at a time. This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it.
