@@ -4,6 +4,13 @@ I am Tonmoy, a trained Biomedical Engineer turned Data Analyst. This is my portf
 
 [Website](https://toncodesdata.github.io/tonmoyDAportfolio.github.io/), [Linkedin](www.linkedin.com/in/rashidtonmoy)
 
+### Python, SQL, Tableau
+#### Title: Skyscanner Data Analytics Migration to Tableau [Github repo](https://github.com/tonCodesData/skyscanner-data-analytics-migration-to-tableau)
+
+Assuming the role of a Data Analyst at Skyscanner, I worked on this project to migrate existing data analytics tasks from an Excel-based manual system into interactive Tableau reports. 
+
+In brief, I **extract** data from a 10 different excel workbooks, contain flights data of 10 different years. I cleaned this combined 7.9+ GB of data, **trnasformed** them into one single pandas dataframe, and created a unified clean workable dataset. Then I **loaded** this dataset into a PostgreSQL database. Finally using Tableau, I connected to the PostgreSQL database and created informative reports.    
+
 ### Python, SQL
 #### Title: Data Centralisation of a Multinational Retail Company [Github repo](https://github.com/tonCodesData/multinational-retail-data-centralisation)
 
